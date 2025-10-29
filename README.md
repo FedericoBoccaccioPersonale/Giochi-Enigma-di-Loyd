@@ -10,7 +10,7 @@ Puoi tranquillamente scaricare dalla release o giocare on line.
 [Ultima versione](https://github.com/FedericoBoccaccioPersonale/Giochi-Enigma-di-Loyd/releases/latest) (tutte le piattaforme disponibili)
 
 🌐 [Gioca on line](https://federicoboccacciopersonale.github.io/Giochi-Enigma-di-Loyd)
-> Avviso
+> **Avviso**<br>
 Per essere visualizzato correttamente devi aprire gli strumenti di sviluppo, trovare `div#unityContainer` e modificare lo style impostando `width: 600px; height: 900px;`, gli altri elementi sono opzionali.<br>
 Se non sei un programmatore puoi comunque giocare, oppure andare su Itch.io
 
