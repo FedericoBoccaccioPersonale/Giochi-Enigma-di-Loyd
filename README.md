@@ -1,5 +1,5 @@
 # Giochi\Enigma di Loyd 🎮 🇮🇹
-[https://federicoboccaccio.wordpress.com/mini-collezione-jq-2022/](https://federicoboccaccio.wordpress.com/enigma-di-loyd/)
+https://federicoboccaccio.wordpress.com/enigma-di-loyd/
 
 # Importante
 ⚠️ I file "Source code (.zip)" e "Source code (.tar.gz)" sono generati automaticamente da GitHub.<br>
